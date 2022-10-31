@@ -43,3 +43,5 @@ while x <=15:#em caso do while precisa declara variavel antes e explicar que pre
     x=x+1
     
 #teste
+
+#teste2
