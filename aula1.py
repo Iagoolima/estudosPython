@@ -42,7 +42,4 @@ while x <=15:#em caso do while precisa declara variavel antes e explicar que pre
     print(x)
     x=x+1
     
-    
-
-
-
+#teste
